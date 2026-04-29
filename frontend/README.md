@@ -114,7 +114,7 @@ _Add screenshots of your project UI here_
 
 ## 👩‍💻 Author
 
-- Your Name  
+- Tejashwini.K.P and Meghana.D.M
 
 ---
 
