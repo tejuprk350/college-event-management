@@ -31,6 +31,7 @@ router.delete("/:id", async (req, res) => {
   } catch (error) {
     res.status(500).send(error);
   }
+  
 });
 
 // Update Event API
